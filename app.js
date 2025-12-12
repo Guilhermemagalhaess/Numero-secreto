@@ -1,5 +1,5 @@
 alert("Primeiro projeto em JS");
-let numeroSecreto = 15;
+let numeroSecreto = 25;
 console.log(numeroSecreto)
 let chute = prompt('Escolha um número entre 1 e 30');
 
